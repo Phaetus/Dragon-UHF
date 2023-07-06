@@ -1,5 +1,5 @@
-# Phaetus Gihub
-Welcome to the Phaetus github repository. This is a place to share the instructions, models, adapters and any other relevant files for the Phaetus products from Phaetus R&D team and other users. 
+# Phaetus GitHub
+Welcome to the Phaetus GitHub repository. This is a place to share the instructions, models, adapters and any other relevant files for the Phaetus products from Phaetus R&D team and other users. 
 
 Check the folders under the product name to find the file you need. We will continue updating the folders.
 
@@ -9,7 +9,7 @@ Check the reseller list from Phaetus website: www.phaetus.com/resellers
 # Note
 Thank you for using Phaetus products. If you have any questions during use, please do not hesitate to contact us: support@phaetus.com. We will work with you to solve it.
 
-For more product information you can always follow Phaetus Website/Twitter/Instagram/Facebook/Youtube and Github. Thank you!
+For more product information you can always follow Phaetus Website/Twitter/Instagram/Facebook/Youtube and GitHub. Thank you!
 
 Phaetus Website: www.phaetus.com
 
